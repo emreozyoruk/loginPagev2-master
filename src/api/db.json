@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "users": [
+        {
+          "email": "asdasd",
+          "username": "asdasd",
+          "password": "asdas"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "users": [
+        {
+          "email": "emre_fener_li@hotmail.com",
+          "username": "eozyoruk19",
+          "password": "Emreeeeee"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "users": [
+        {
+          "email": "safasfas",
+          "username": "asgasg",
+          "password": "asgsagsa"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "users": [
+        {
+          "email": "deneme@outlook.com",
+          "username": "kullanıcı_adı _deneme",
+          "password": "selcuk"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
